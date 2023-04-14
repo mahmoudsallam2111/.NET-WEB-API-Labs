@@ -1,0 +1,66 @@
+D:\API\Web API Labs\Web API Labs\bin\Debug\net7.0\appsettings.Development.json
+D:\API\Web API Labs\Web API Labs\bin\Debug\net7.0\appsettings.json
+D:\API\Web API Labs\Web API Labs\bin\Debug\net7.0\Web API Labs.exe
+D:\API\Web API Labs\Web API Labs\bin\Debug\net7.0\Web API Labs.deps.json
+D:\API\Web API Labs\Web API Labs\bin\Debug\net7.0\Web API Labs.runtimeconfig.json
+D:\API\Web API Labs\Web API Labs\bin\Debug\net7.0\Web API Labs.dll
+D:\API\Web API Labs\Web API Labs\bin\Debug\net7.0\Web API Labs.pdb
+D:\API\Web API Labs\Web API Labs\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\API\Web API Labs\Web API Labs\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\API\Web API Labs\Web API Labs\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API\Web API Labs\Web API Labs\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API\Web API Labs\Web API Labs\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API\Web API Labs\Web API Labs\obj\Debug\net7.0\Web API Labs.csproj.AssemblyReference.cache
+D:\API\Web API Labs\Web API Labs\obj\Debug\net7.0\Web API Labs.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\Web API Labs\Web API Labs\obj\Debug\net7.0\Web API Labs.AssemblyInfoInputs.cache
+D:\API\Web API Labs\Web API Labs\obj\Debug\net7.0\Web API Labs.AssemblyInfo.cs
+D:\API\Web API Labs\Web API Labs\obj\Debug\net7.0\Web API Labs.csproj.CoreCompileInputs.cache
+D:\API\Web API Labs\Web API Labs\obj\Debug\net7.0\Web API Labs.MvcApplicationPartsAssemblyInfo.cs
+D:\API\Web API Labs\Web API Labs\obj\Debug\net7.0\Web API Labs.MvcApplicationPartsAssemblyInfo.cache
+D:\API\Web API Labs\Web API Labs\obj\Debug\net7.0\staticwebassets\msbuild.Web API Labs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\API\Web API Labs\Web API Labs\obj\Debug\net7.0\staticwebassets\msbuild.build.Web API Labs.props
+D:\API\Web API Labs\Web API Labs\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web API Labs.props
+D:\API\Web API Labs\Web API Labs\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web API Labs.props
+D:\API\Web API Labs\Web API Labs\obj\Debug\net7.0\staticwebassets.pack.json
+D:\API\Web API Labs\Web API Labs\obj\Debug\net7.0\staticwebassets.build.json
+D:\API\Web API Labs\Web API Labs\obj\Debug\net7.0\staticwebassets.development.json
+D:\API\Web API Labs\Web API Labs\obj\Debug\net7.0\scopedcss\bundle\Web API Labs.styles.css
+D:\API\Web API Labs\Web API Labs\obj\Debug\net7.0\Web API Labs.csproj.CopyComplete
+D:\API\Web API Labs\Web API Labs\obj\Debug\net7.0\Web API Labs.dll
+D:\API\Web API Labs\Web API Labs\obj\Debug\net7.0\refint\Web API Labs.dll
+D:\API\Web API Labs\Web API Labs\obj\Debug\net7.0\Web API Labs.pdb
+D:\API\Web API Labs\Web API Labs\obj\Debug\net7.0\Web API Labs.genruntimeconfig.cache
+D:\API\Web API Labs\Web API Labs\obj\Debug\net7.0\ref\Web API Labs.dll
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\bin\Debug\net7.0\appsettings.Development.json
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\bin\Debug\net7.0\appsettings.json
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\bin\Debug\net7.0\Web API Labs.exe
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\bin\Debug\net7.0\Web API Labs.deps.json
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\bin\Debug\net7.0\Web API Labs.runtimeconfig.json
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\bin\Debug\net7.0\Web API Labs.dll
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\bin\Debug\net7.0\Web API Labs.pdb
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\obj\Debug\net7.0\Web API Labs.csproj.AssemblyReference.cache
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\obj\Debug\net7.0\Web API Labs.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\obj\Debug\net7.0\Web API Labs.AssemblyInfoInputs.cache
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\obj\Debug\net7.0\Web API Labs.AssemblyInfo.cs
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\obj\Debug\net7.0\Web API Labs.csproj.CoreCompileInputs.cache
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\obj\Debug\net7.0\Web API Labs.MvcApplicationPartsAssemblyInfo.cs
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\obj\Debug\net7.0\Web API Labs.MvcApplicationPartsAssemblyInfo.cache
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\obj\Debug\net7.0\staticwebassets\msbuild.Web API Labs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\obj\Debug\net7.0\staticwebassets\msbuild.build.Web API Labs.props
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web API Labs.props
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web API Labs.props
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\obj\Debug\net7.0\staticwebassets.pack.json
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\obj\Debug\net7.0\staticwebassets.build.json
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\obj\Debug\net7.0\staticwebassets.development.json
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\obj\Debug\net7.0\scopedcss\bundle\Web API Labs.styles.css
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\obj\Debug\net7.0\Web API Labs.csproj.CopyComplete
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\obj\Debug\net7.0\Web API Labs.dll
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\obj\Debug\net7.0\refint\Web API Labs.dll
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\obj\Debug\net7.0\Web API Labs.pdb
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\obj\Debug\net7.0\Web API Labs.genruntimeconfig.cache
+D:\API\.NET-WEB-API-Labs\Day1 Lab\Web API Labs\obj\Debug\net7.0\ref\Web API Labs.dll
