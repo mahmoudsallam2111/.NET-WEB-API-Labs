@@ -1,0 +1,14 @@
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.DAL\bin\Debug\net7.0\DevelopmentManagement.DAL.deps.json
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.DAL\bin\Debug\net7.0\DevelopmentManagement.DAL.runtimeconfig.json
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.DAL\bin\Debug\net7.0\DevelopmentManagement.DAL.dll
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.DAL\bin\Debug\net7.0\DevelopmentManagement.DAL.pdb
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.DAL\obj\Debug\net7.0\DevelopmentManagement.DAL.csproj.AssemblyReference.cache
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.DAL\obj\Debug\net7.0\DevelopmentManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.DAL\obj\Debug\net7.0\DevelopmentManagement.DAL.AssemblyInfoInputs.cache
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.DAL\obj\Debug\net7.0\DevelopmentManagement.DAL.AssemblyInfo.cs
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.DAL\obj\Debug\net7.0\DevelopmentManagement.DAL.csproj.CoreCompileInputs.cache
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.DAL\obj\Debug\net7.0\DevelopmentManagement.DAL.dll
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.DAL\obj\Debug\net7.0\refint\DevelopmentManagement.DAL.dll
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.DAL\obj\Debug\net7.0\DevelopmentManagement.DAL.pdb
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.DAL\obj\Debug\net7.0\DevelopmentManagement.DAL.genruntimeconfig.cache
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.DAL\obj\Debug\net7.0\ref\DevelopmentManagement.DAL.dll

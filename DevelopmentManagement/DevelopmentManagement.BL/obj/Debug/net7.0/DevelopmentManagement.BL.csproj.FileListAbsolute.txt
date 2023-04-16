@@ -1,0 +1,15 @@
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.BL\bin\Debug\net7.0\DevelopmentManagement.BL.deps.json
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.BL\bin\Debug\net7.0\DevelopmentManagement.BL.dll
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.BL\bin\Debug\net7.0\DevelopmentManagement.BL.pdb
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.BL\bin\Debug\net7.0\DevelopmentManagement.DAL.dll
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.BL\bin\Debug\net7.0\DevelopmentManagement.DAL.pdb
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.BL\obj\Debug\net7.0\DevelopmentManagement.BL.csproj.AssemblyReference.cache
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.BL\obj\Debug\net7.0\DevelopmentManagement.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.BL\obj\Debug\net7.0\DevelopmentManagement.BL.AssemblyInfoInputs.cache
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.BL\obj\Debug\net7.0\DevelopmentManagement.BL.AssemblyInfo.cs
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.BL\obj\Debug\net7.0\DevelopmentManagement.BL.csproj.CoreCompileInputs.cache
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.BL\obj\Debug\net7.0\DevelopmentManagement.BL.csproj.CopyComplete
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.BL\obj\Debug\net7.0\DevelopmentManagement.BL.dll
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.BL\obj\Debug\net7.0\refint\DevelopmentManagement.BL.dll
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.BL\obj\Debug\net7.0\DevelopmentManagement.BL.pdb
+D:\API\.NET-WEB-API-Labs\DevelopmentManagement\DevelopmentManagement.BL\obj\Debug\net7.0\ref\DevelopmentManagement.BL.dll
