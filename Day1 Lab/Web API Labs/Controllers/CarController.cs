@@ -87,7 +87,7 @@ namespace Web_API_Labs.Controllers
             {
               return  BadRequest();
             }
-            var UpdatedCar = Cars.FirstOrDefault(car=>car.Id==Id);  
+            Car? UpdatedCar = Cars.FirstOrDefault(car=>car.Id==Id);  
 
             if (UpdatedCar is null)
             {

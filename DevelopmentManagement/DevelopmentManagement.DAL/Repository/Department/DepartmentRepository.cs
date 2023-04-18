@@ -17,7 +17,9 @@ namespace DevelopmentManagement.DAL
         }
         public Department? getdepartmentdetailswithTickets(int id)
         {
-            return context.Set<Department>().Include(t=>t.tickets).ThenInclude(d=>d.developers).
+            return context.Set<Department>().
+                Include(t=>t.tickets).
+                           ThenInclude(d=>d.developers).
                 FirstOrDefault(d=>d.Id==id);
            
         }
